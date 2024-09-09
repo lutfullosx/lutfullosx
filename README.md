@@ -8,10 +8,10 @@
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, PHP etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💬 Ask me about **Frontend, UI/UX**
+- 💬 Ask me about **Frontend,
 - ⚡ Fun fact: I love to play Chess &#9812;
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 📫 How to reach me **akbaralinabiev14@gmail.com**
+- 📫 How to reach me **sotvoldievlutfulloh2@gmail.com**
 
 ---
 
@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=akbaralinabiev&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=lutfulloh&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ---
@@ -34,12 +34,12 @@
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="26px">
 
 <div align="center">
- <a href="https://www.linkedin.com/in/akbarali-nabiev-4b89a1212/" target="_blank">
+
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt= style="margin-bottom: 5px;" />
 </a>
   
   
-<a href="https://github.com/akbaralinabiev" target="_blank">
+<a href="https://github.com/lutfulloh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="" style="margin-bottom: 5px;" />
 </a>
 
@@ -47,15 +47,15 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt= style="margin-bottom: 5px;" />
 </a>
 
-<a href="mailto:akbaralinabiev14@gmail.com" target="_blank">
+<a href="mailto:sotvoldievlutfulloh@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Akbarali Nabiev gmail" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/akbarali_nabiev/" target="_blank">
+<a href="https://www.instagram.com/lutfullosx/" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt= style="margin-bottom: 5px;" />
 </a>
                                                                                                                                                  
-<a href="https://www.facebook.com/akbarali.nabiev14" target="_blank">
+<a href="https://www.facebook.com/lutfulloh_sotvoldiev" target="_blank">
 <img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt= style="margin-bottom: 5px;" />
 </a>  
  
@@ -86,11 +86,11 @@
 ---
 &nbsp;
 
-![Akbarali Nabiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbaralinabiev\&show_icons=true\&show=reviews,discussions_started,prs_merged,prs_merged_percentage,&rank_icon=percentile)
+![Lutfulloh Sotvoldiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfulloh\&show_icons=true\&show=reviews,discussions_started,prs_merged,prs_merged_percentage,&rank_icon=percentile)
    
 &nbsp;
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaralinabiev&theme=tokyo&hide_border=false" alt="GitHub Streak Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lutfullohsotvoldiev&theme=tokyo&hide_border=false" alt="GitHub Streak Stats">
 
 
 
